@@ -1,3 +1,1 @@
-"# Netcracker-homework"
-
- # Netcracker-homework
+# Netcracker-homework
